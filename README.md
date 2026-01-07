@@ -6,4 +6,4 @@ SafeBites adalah web app sederhana untuk membantu pengguna menemukan produk groc
 - **Backend**: Node.js (Express) + MySQL
 - **Database**: dump SQL ada di `sql/safebites.sql`
 
-📄 Laporan: `report/safebites_report.pdf` (jika ikut ter-upload)
+📄 Laporan: `report/safebites_report.pdf` 
